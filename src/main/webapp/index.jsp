@@ -127,7 +127,7 @@
             <span class="dot"></span>
             DEPLOY SUCCESSFUL
         </div>
-        <h1>Приложение запущено</h1>
+        <h1>Hello Jenkins</h1>
         <p>Сборка Maven успешно прошла в Jenkins и автоматически развернута на сервере Apache Tomcat 9.</p>
         
         <div class="info-grid">
