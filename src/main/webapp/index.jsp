@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Деплой выполнен успешно | Tomcat 9 & Jenkins</title>
+    <title>Hello Jenkins | Tomcat 9 & Jenkins</title>
     <style>
         * {
             box-sizing: border-box;
